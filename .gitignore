@@ -1,0 +1,8 @@
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Files
+Sandbox/Sandbox.vcxproj.user
+Prism/Prism.vcxproj.user
